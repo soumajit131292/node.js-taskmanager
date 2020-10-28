@@ -1,0 +1,10 @@
+# IDE - VSCode
+.vscode/*
+
+# Dependency directories
+node_modules/
+
+# System Files
+.DS_Store
+package-lock.json
+build
